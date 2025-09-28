@@ -26,3 +26,5 @@ This project aims to leverage demographic and behavioral data to improve marketi
 ## Acknowledgements
 - Data provided by Bertelsmann Arvato Analytics via Udacity.
 - Project developed as part of the Udacity Data Scientist Nanodegree.
+
+Link to blog: https://medium.com/@ashishpandit.nasik/so-who-will-buy
